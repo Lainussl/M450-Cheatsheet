@@ -10,7 +10,7 @@ Dieses Repository enthält die komplette Vorbereitung für die M450 Prüfung "Ap
 ## 🚀 Schnellstart
 ```bash
 # Repository klonen
-git clone https://github.com/deinname/m450-pruefung.git
+git clone https://github.com/mitja-kurath/m450-pruefung.git
 cd m450-pruefung
 
 # Solution öffnen
